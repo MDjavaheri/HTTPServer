@@ -1,0 +1,7 @@
+PUT /test1%2Epdf HTTP/1.1
+User-Agent: curl/7.20.0 (i386-pc-win32) libcurl/7.20.0 OpenSSL/0.9.8l zlib/1.2.3
+Host: localhost:613
+Accept: */*
+Content-Length: 24
+Expect: Yay!
+

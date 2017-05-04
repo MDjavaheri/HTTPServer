@@ -1,0 +1,8 @@
+DELETE /index HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
+Host: localhost:613
+Content-Type: text/plain; charset=utf-8
+Content-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+

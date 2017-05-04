@@ -1,0 +1,26 @@
+{
+    "index.html": {
+        "newPath": "file/index.html",
+        "code": 301
+    },
+    "/files/tryMe.txt": {
+        "newPath": "files/missedMe/hereIAm.txt",
+        "code": 301
+    },
+    "/files/tryHere/": {
+        "newPath": "files/missedMe/",
+        "code": 302
+    },
+    "/files/tryHereInstead/": {
+        "newPath": "files/missedMe/",
+        "code": 303
+    },
+    "/files/tryHereInsteadSeriously/": {
+        "newPath": "files/missedMe/",
+        "code": 304
+    },
+    "/files/tryHereInsteadSeriouslyOk/index.html": {
+        "newPath": "files/missedMe/",
+        "code": 307
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "text" : {
+        "plain" : ".txt",
+        "html" : ".html",
+        "css": ".css",
+        "javascript": ".js"
+    },
+    "image": {
+        "gif": ".gif",
+        "png": ".png",
+        "jpeg": ".jpg",
+        "bmp": ".bmp", 
+        "webp": ".webp"
+    },
+    "audio": {
+        "midi": ".midi",
+        "mpeg": ".mpeg",
+        "webm": ".webm",
+        "ogg:": ".ogg",
+        "wav": ".wav"
+    },
+    "video": {
+        "webm" : ".webm",
+        "ogg": ".ogg"
+    },
+    "application": {
+        "octet-stream": "",
+        "pkcs12" : ".pfx",
+        "vnd.mspowerpoint" :".pptx",
+        "xhtml+xml" :".xhtml",
+        "xml": ".xml",
+        "pdf": ".pdf"
+    }
+
+}

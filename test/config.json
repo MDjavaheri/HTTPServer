@@ -1,0 +1,10 @@
+{
+  "maxRequests": 10,
+  "cacheSize": 100,
+  "redirects": "test/redirects.txt",
+  "log": "log.txt",
+  "port": 613,
+  "documentRoot": "public_html",
+  "payloadMaxSize": 2097152,
+  "uriMaxLength": 2000
+}
